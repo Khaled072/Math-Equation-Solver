@@ -1,1 +1,3 @@
-# Math-Equation-Solver
+- A two players game where players compete by scoring points based on correctly answering math equations.
+- Generating random math equations up to the third degree using the roots of the equation.
+- Prompting the user to input the solutions to the equations and comparing them with the correct solutions.
